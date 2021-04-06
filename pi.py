@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 DIGITS = int(input("Enter how many digits of pi you want: "))
 
 def pi_digits(x):
